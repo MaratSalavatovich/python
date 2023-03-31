@@ -5,6 +5,7 @@
 *Пример:*
 3 2 4 -> yes
 3 2 1 -> no
+
 """
 
 m, n, k = int(input()), int(input()), int(input())
